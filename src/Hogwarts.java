@@ -18,6 +18,7 @@ public class Hogwarts {
     private int power;
     private int distance;
 
+
     public static void main(String[] args) {
 
 
