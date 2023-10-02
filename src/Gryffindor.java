@@ -3,6 +3,7 @@ public class Gryffindor extends Hogwarts {
     private int honor; // уровень чести
     private int bravery; // храбрость
 
+
     private String person;
 
     public Gryffindor(int nobility, int honor, int bravery, int power,

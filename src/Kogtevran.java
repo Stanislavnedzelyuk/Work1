@@ -16,6 +16,7 @@ public class Kogtevran extends Hogwarts{
     public int getSmart() {
         return smart;
     }
+
     public void setSmart(int smart) {
         this.smart = smart;
     }

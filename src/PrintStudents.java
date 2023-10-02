@@ -13,6 +13,7 @@ public class PrintStudents {
         }
     }
 
+
     public void print(Puffenduy[] student2) {
         System.out.println("*******************");
         System.out.println("Студенты Пуффендуя");
