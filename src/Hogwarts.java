@@ -6,6 +6,7 @@ public class Hogwarts {
     public int getPower() {
         return power;
     }
+
     public void setPower(int power) {
         this.power = power;
     }

@@ -6,6 +6,7 @@ public class Slytherin extends Hogwarts{
     private int resourcefulness; //находчивость
     private int authorities; //жажда власти
     private String person;
+
     public Slytherin(int cunning, int determination, int ambition,
                      int resourcefulness, int authorities, int power,
                      int distance, String person) {

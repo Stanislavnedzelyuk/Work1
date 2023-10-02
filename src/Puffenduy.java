@@ -37,4 +37,5 @@ public class Puffenduy extends Hogwarts{
     public void setPerson(String person) {
         this.person = person;
     }
+
 }
